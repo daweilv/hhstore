@@ -26,9 +26,6 @@ Hi, I'm Henry.Huang, a developer from Shanghai, China.
 - 💬 [About Me](https://about.me/henryhuang)
 
 
-<br />
-<br />
-
 
 ## ⚡ Languages and Tools:
 
