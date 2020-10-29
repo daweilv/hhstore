@@ -14,3 +14,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+Hi, I'm Henry.Huang, a developer from Shanghai, China.
+
+- 🌱 Here's My [Blog](https://github.com/hhstore/blog/issues)
+- 💬 [About Me](https://about.me/henryhuang)
+
+
+<br />
+<br />
+
+
+## ⚡ Languages and Tools:
+
+
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>    
+
+
+
+## ⚡ Github Stats:
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hhstore&show_icons=true&include_all_commits=true&theme=radical" alt="hhstore's github stats" />
+</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hhstore&layout=compact&theme=radical" />
+</a>
+
+
+
+## ⚡ Github Vistor Stats:
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hhstore)
+
+
+
+
+
+
