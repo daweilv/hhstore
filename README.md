@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-## Talk with Me: 
-
-- 💬  1vs1: https://keybase.io/hhglory
-- 💬  Chat Group: https://keybase.io/team/gossipcoder
-
 
 
 Hi, I'm Henry.Huang, a developer from Shanghai, China.
@@ -28,6 +23,12 @@ Hi, I'm Henry.Huang, a developer from Shanghai, China.
 - 🌱 Here's My [Blog](https://github.com/hhstore/blog/issues)
 - 💬 [About Me](https://about.me/henryhuang)
 
+
+
+## Talk with Me: 
+
+- 💬  1vs1: https://keybase.io/hhglory
+- 💬  Chat Group: https://keybase.io/team/gossipcoder
 
 
 ## ⚡ Languages and Tools:
