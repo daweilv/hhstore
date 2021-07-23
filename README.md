@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
+## Talk with Me: 
 
+- 💬  1vs1: https://keybase.io/hhglory
+- 💬  Chat Group: https://keybase.io/team/gossipcoder
 
 
 
