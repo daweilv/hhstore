@@ -28,12 +28,15 @@ Hi, I'm Henry.Huang, a developer from Shanghai, China.
 ## ⚡ Talk with Me: 
 
 ### 1 vs 1: 
+
 - 📫  1vs1: https://keybase.io/hhglory
 
-### Coder Chat Group: 
+### Coder Chat Group: gossipcoder
 
-- 😄  Chat Group: https://keybase.io/team/gossipcoder
-- https://github.com/hhstore/blog/issues/309
+- [x] 🔥  Chat Group: https://keybase.io/team/gossipcoder
+- [x] Read More Here: https://github.com/hhstore/blog/issues/309
+- [x] Welcome all kinds of friends to join together to discuss technology and life.
+
 
 ## ⚡ Languages and Tools:
 
