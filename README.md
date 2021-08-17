@@ -33,7 +33,7 @@ Hi, I'm Henry.Huang, a developer from Shanghai, China.
 
 ### Coder Chat Group: gossipcoder
 
-- [x] 🔥  Chat Group: https://keybase.io/team/gossipcoder
+- [x] 🔥  Chat Group: https://discord.gg/MnDA9pfWAW
 - [x] Read More Here: https://github.com/hhstore/blog/issues/309
 - [x] Welcome all kinds of friends to join together to discuss technology and life.
 
