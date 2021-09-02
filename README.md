@@ -29,7 +29,9 @@ Hi, I'm Henry.Huang, a developer from Shanghai, China.
 
 ### 1 vs 1: 
 
-- 📫  1vs1: https://keybase.io/hhglory
+
+- 📫 discord: `orzglory#2128`
+
 
 ### Coder Chat Group: gossipcoder
 
