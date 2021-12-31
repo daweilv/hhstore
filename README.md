@@ -51,15 +51,12 @@ Hi, I'm Henry.Huang, a developer from Shanghai, China.
 ## ⚡ Github Stats:
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hhstore&show_icons=true&include_all_commits=true&theme=radical" alt="hhstore's github stats" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhstore&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hhstore&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hhstore&theme=github)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hhstore&layout=compact&theme=radical" />
-</a>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hhstore&count_private=true&theme=onedark&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hhstore&langs_count=8&theme=onedark&layout=compact&hide=javascript,html,css,shell)]()
 
 
 
