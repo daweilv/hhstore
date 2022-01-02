@@ -30,7 +30,7 @@ Hi, I'm Henry.Huang, a developer from Shanghai, China.
 ### 1 vs 1: 
 
 
-- 📫 discord: `orzglory#2128`
+- 📫 discord: `HenryH#1202`
 - 📫 wechat: `hhglory`
 - 📫 twitter: https://twitter.com/gossip_coder
 
