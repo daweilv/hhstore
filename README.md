@@ -31,7 +31,8 @@ Hi, I'm Henry.Huang, a developer from Shanghai, China.
 
 
 - 📫 discord: `orzglory#2128`
-
+- 📫 wechat: `hhglory`
+- 📫 twitter: https://twitter.com/gossip_coder
 
 ### Coder Chat Group: gossipcoder
 
